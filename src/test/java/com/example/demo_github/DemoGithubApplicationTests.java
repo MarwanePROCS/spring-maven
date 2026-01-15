@@ -8,9 +8,9 @@ import org.spirngframework.web.bind.annotationRestController;
 @SpringBootTest
 class DemoGithubApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
 
