@@ -56,4 +56,5 @@ jobs:
           path: target
  
       - name: Build Docker image
-        run: docker build -t springboot-app:latest
+        run: docker build -t springboot-app:latest .
+
