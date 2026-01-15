@@ -13,10 +13,4 @@ public class DemoGithubApplication {
 	}
 
 }
-@RestController
-	class HelloWorldController {
-		@Get Mapping("/")
-		public string sayHello(){
-			return "Hello, world !";
-	}
-}
+
